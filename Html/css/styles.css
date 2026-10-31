@@ -1,0 +1,137 @@
+
+body{
+     background-color: #eaf6f6;
+
+}
+
+.heading{
+    color: #66bfbf;
+    font-family: "Times new roman",serif;
+    /* background-color: rgb(242, 247, 236);  */
+    font-size: 35px;
+
+}
+.TB-heading{
+
+    color: rgb(77, 77, 247);
+    font-family: "serif";
+    font-size: 15px;
+
+}
+
+
+
+.Picture{
+    border-radius: 100%;
+
+
+}
+
+hr{
+    border-color: rgb(153, 152, 152);
+    border-style: dotted none none;
+    width: 40%;
+    border-width: 7px;
+}
+.TB-data{
+    font-family: 'sans-serif';
+    font-size: 14px;
+    text-align: justify;
+
+
+
+}
+
+
+/* Part B Styles */
+
+.partB{
+    color: darkblue;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.detils{
+    text-align: justify;
+
+}
+
+.table-heading{
+    align-items: left;
+}
+
+
+
+/* new Educational Info */
+
+#N_edu{
+    background-color: lightcyan;
+
+}
+
+.totle{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.table{
+    font-family: serif;
+    font-size: 15px;
+    border-spacing: 20px;
+    padding: 5px;
+    text-align: justify;
+    
+
+}
+
+.table_heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: darkblue;
+    text-align: center;
+    padding: 10px;
+}
+
+#heading2{
+    color: red;
+}
+
+
+
+#head{
+    color:black;
+    font-family: serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+tr{
+    font-size: 15px;
+    font-weight: bold;
+    
+
+
+}
+
+
+#h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    color:blue;
+}
+
+#hr1{
+    border-color: green;
+
+}
+
+
+
+
+
