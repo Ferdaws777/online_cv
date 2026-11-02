@@ -1,0 +1,75 @@
+
+body{
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+#title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.forms{
+    background-color: lightgray;
+    color: black;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    border-color: gray;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: double;
+}
+#lbl_name{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+#lbl_pass{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+#inp{
+    border-color:gray;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: double;
+    text-align: center;
+    text-size-adjust: unset;
+    background-color: antiquewhite
+    
+}
+
+#sub_btn{
+    background-color: green;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    border-radius: 5px;
+    border-color: gray;
+    border-width: 1px;
+    border-style: double;
+    
+}
+
+#f_pass{
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+#create_acc{
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}

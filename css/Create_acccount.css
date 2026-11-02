@@ -1,0 +1,20 @@
+
+body{
+    background-color: #f7eded;
+}   
+
+h1{ 
+    font:Anandablack;
+    text-align: center;
+    color: #f40d0d;
+    background-color: lightgray;
+    border: 2px solid #f40d0d;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #f40d0d;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
